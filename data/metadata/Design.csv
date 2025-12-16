@@ -1,7 +1,8 @@
 Sample,Condition,Edad,Sexo
-AbrahamSimpson,Sobrepeso/Obeso1,80,Masculino
-HomerSimpson,Sobrepeso/Obeso1,40,Masculino
-MargeSimpson,Sobrepeso/Obeso2,38,Femenino
-PattyBouvier,Sobrepeso/Obeso2,40,Femenino
-SelmaBouvier,Sobrepeso/Obeso2,40,Femenino
+AbrahamSimpson,Obeso1,80,Masculino
+HomerSimpson,Obeso1,40,Masculino
+MargeSimpson,Obeso2,38,Femenino
+PattyBouvier,Obeso2,40,Femenino
+SelmaBouvier,Obeso2,40,Femenino
+
 
