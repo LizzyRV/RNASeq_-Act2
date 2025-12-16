@@ -1,0 +1,9 @@
+# System
+.DS_Store
+Thumbs.db
+
+# R
+.Rhistory
+.RData
+.Rproj.user/
+
